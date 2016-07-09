@@ -1,0 +1,2 @@
+name = "zsu"
+print(name)
